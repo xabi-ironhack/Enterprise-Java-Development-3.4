@@ -33,10 +33,10 @@ Upload the code for all of the following prompts to your repository.
 
 10. Write tests to verify your ability to find Customers by status
 
-Write tests to verify your ability to find Aircraft by name
+11. Write tests to verify your ability to find Aircraft by name
 
-Write tests to verify your ability to find Flights by flight number
+12. Write tests to verify your ability to find Flights by flight number
 
-Write tests to verify your ability to find Aircraft with names containing Boeing
+13. Write tests to verify your ability to find Aircraft with names containing Boeing
 
-Write tests to verify your ability to find Flights with a distance greater than 500 miles
+14. Write tests to verify your ability to find Flights with a distance greater than 500 miles
